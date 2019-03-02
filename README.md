@@ -1,6 +1,6 @@
 ## Describition
 
-This is a react step form app using Material-UI
+# This is a react step form app using Material-UI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
